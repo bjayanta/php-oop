@@ -12,4 +12,9 @@ class Human {
     // Code goes to here
 }
 
+// Class 
+class Person {
+    // Code goes to here
+}
+
 ?>

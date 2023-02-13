@@ -18,6 +18,4 @@ echo $human1->name; // get
 echo "<br/>";
 echo $human2->name;
 
-// echo "<br/>";
-
 ?>
