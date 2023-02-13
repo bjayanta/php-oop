@@ -1,30 +1,4 @@
-# Object-Oriented Programming
+# Constructor
 
-Procedural programming is about writing procedures or functions that perform operations on the data, while object-oriented programming is about creating objects that contain both data and functions.
-
-**Object-oriented programming has several advantages over procedural programming:**
-
-- OOP is faster and easier to execute
-- OOP provides a clear structure for the programs
-- OOP helps to keep the PHP code DRY "Don't Repeat Yourself", and makes the code easier to maintain, modify and debug
-- OOP makes it possible to create full reusable applications with less code and shorter development time
-
-**Tip:** The "Don't Repeat Yourself" (DRY) principle is about reducing the repetition of code. You should extract out the codes that are common for the application, and place them at a single place and reuse them instead of repeating it.
-
-## Topic
-
-- Classes and Objects
-- Constructor
-- Destructor
-- Access Modifiers
-- Inheritance
-- Constants
-- Abstract Classes
-- Interfaces
-- Traits
-- Static Methods
-- Static Properties
-- Namespaces
-- Iterables
-
-Thank you.
+1. Classes which have a constructor method call this method on each newly-created object, so it is suitable for any initialization that the object may need before it is used.
+2. __construct() is a Magic Methods
